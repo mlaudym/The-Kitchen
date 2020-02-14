@@ -1,0 +1,23 @@
+body {
+    padding: 20px 20px;
+}
+
+
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    background-color: firebrick;
+    width: 25%;
+    display: inline-block;
+}
+
+.image-padding {
+    margin: 5px;
+}
+
+.image {
+    width: 100%;
+}
